@@ -1,0 +1,57 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TakaRabbitMQ:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TakaRabbitMQ_jar</output-path>
+    <root id="archive" name="TakaRabbitMQ.jar">
+      <element id="module-output" name="TakaRabbitMQ" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.5/mapper-core-1.1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.1.6.RELEASE/spring-rabbit-2.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.23/snakeyaml-1.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.2/mybatis-spring-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter/2.1.5.RELEASE/spring-boot-starter-2.1.5.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-io/commons-io/1.3.2/commons-io-1.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.7.RELEASE/spring-context-5.1.7.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.11/mysql-connector-java-8.0.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.1.26/fastjson-1.1.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.7.RELEASE/spring-aop-5.1.7.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.1.7.RELEASE/spring-jdbc-5.1.7.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-starter/2.1.0/mybatis-spring-boot-starter-2.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.5.RELEASE/spring-boot-autoconfigure-2.1.5.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/2.1.0/mybatis-spring-boot-autoconfigure-2.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.2/mybatis-3.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.1.7.RELEASE/spring-jcl-5.1.7.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.7.RELEASE/spring-beans-5.1.7.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.7.RELEASE/spring-core-5.1.7.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/persistence/persistence-api/1.0/persistence-api-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.4.RELEASE/spring-retry-1.2.4.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/uuid/java-uuid-generator/3.1.4/java-uuid-generator-3.1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.1.7.RELEASE/spring-messaging-5.1.7.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-amqp/2.1.5.RELEASE/spring-boot-starter-amqp-2.1.5.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.4.3/amqp-client-5.4.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/tk/mybatis/mapper-extra/1.1.5/mapper-extra-1.1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-configuration-processor/2.1.5.RELEASE/spring-boot-configuration-processor-2.1.5.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/tk/mybatis/mapper-spring-boot-autoconfigure/2.1.5/mapper-spring-boot-autoconfigure-2.1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.2.0/HikariCP-3.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/tk/mybatis/mapper-spring/1.1.5/mapper-spring-1.1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-jdbc/2.1.5.RELEASE/spring-boot-starter-jdbc-2.1.5.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/tk/mybatis/mapper-spring-boot-starter/2.1.5/mapper-spring-boot-starter-2.1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/2.1.6.RELEASE/spring-amqp-2.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/tk/mybatis/mapper-base/1.1.5/mapper-base-1.1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.7.RELEASE/spring-tx-5.1.7.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-expression/5.1.7.RELEASE/spring-expression-5.1.7.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/tk/mybatis/mapper-weekend/1.1.5/mapper-weekend-1.1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.7.21/slf4j-log4j12-1.7.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.11/commons-codec-1.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.5.RELEASE/spring-boot-2.1.5.RELEASE.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

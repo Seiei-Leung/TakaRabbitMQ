@@ -1,0 +1,33 @@
+{
+  "groups": [
+    {
+      "name": "rabbit.producer.druid.jdbc",
+      "type": "javax.sql.DataSource",
+      "sourceType": "top.taka.configs.database.DataSourceConfiguration",
+      "sourceMethod": "rabbitMQDataSource()"
+    },
+    {
+      "name": "takarabbitmq.datasource",
+      "type": "top.taka.configs.DataSourceMainProperties",
+      "sourceType": "top.taka.configs.DataSourceMainProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "takarabbitmq.datasource.password",
+      "type": "java.lang.String",
+      "sourceType": "top.taka.configs.DataSourceMainProperties"
+    },
+    {
+      "name": "takarabbitmq.datasource.url",
+      "type": "java.lang.String",
+      "sourceType": "top.taka.configs.DataSourceMainProperties"
+    },
+    {
+      "name": "takarabbitmq.datasource.username",
+      "type": "java.lang.String",
+      "sourceType": "top.taka.configs.DataSourceMainProperties"
+    }
+  ],
+  "hints": []
+}
